@@ -13,7 +13,7 @@
 
 ### Running the iOS app in the iOS simulator
 
-This requires Xcode 9 or newer.
+This requires Xcode 10 or newer.
 
 1. Run `bundle install` in the `ios` directory to install all
    dependencies.
